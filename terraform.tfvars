@@ -16,18 +16,18 @@ preferred_number_of_private_subnets = 4
 
 environment = "dev"
 
-ami = "ami-09e67e426f25ce0d7"
+ami = "ami-08e637cea2f053dfa"
 
 keypair = "devops"
 
-master-password = "devopspblproject"
+master-password = "$Amson1234"
 
-master-username = "david"
+master-username = "samsoncasava"
 
-account_no = "696742900004"
+account_no = "995853556593"
 
 tags = {
-  Owner-Email     = "infradev-segun@darey.io"
+  Owner-Email     = "samson@casava.co"
   Managed-By      = "Terraform"
-  Billing-Account = "1234567890"
+  Billing-Account = "995853556593"
 }
